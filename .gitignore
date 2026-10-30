@@ -1,0 +1,6 @@
+node_modules/
+*.qbullion.json
+*.pending.json
+*.key
+.env*
+native/target/
